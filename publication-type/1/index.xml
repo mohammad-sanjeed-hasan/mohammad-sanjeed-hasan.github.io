@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Mohammad Sanjeed Hasan</title>
+    <link>https://mohammad-sanjeed-hasan.github.io/publication-type/1/</link>
+      <atom:link href="https://mohammad-sanjeed-hasan.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mohammad-sanjeed-hasan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://mohammad-sanjeed-hasan.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Centrifugal-Coriolis instability through a rotating curved square duct with bottom wall heating and cooling from the ceiling</title>
+      <link>https://mohammad-sanjeed-hasan.github.io/publication/hasan-2021-centrifugal/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://mohammad-sanjeed-hasan.github.io/publication/hasan-2021-centrifugal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-isothermal flow with convective heat transfer through a curved duct for various aspect ratios</title>
+      <link>https://mohammad-sanjeed-hasan.github.io/publication/dolon-2021-non/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://mohammad-sanjeed-hasan.github.io/publication/dolon-2021-non/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical prediction of unsteady fluid flow and heat transfer through a stationary curved square duct</title>
+      <link>https://mohammad-sanjeed-hasan.github.io/publication/hasan-2021-numerical/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://mohammad-sanjeed-hasan.github.io/publication/hasan-2021-numerical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical study of unsteady fluid flow through a tightly coiled rectangular duct of large aspect ratio</title>
+      <link>https://mohammad-sanjeed-hasan.github.io/publication/dolon-2021-numerical/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://mohammad-sanjeed-hasan.github.io/publication/dolon-2021-numerical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A numerical study of unsteady heat and fluid flow through a rotating curved channel with variable curvature</title>
+      <link>https://mohammad-sanjeed-hasan.github.io/publication/sultana-2019-numerical/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://mohammad-sanjeed-hasan.github.io/publication/sultana-2019-numerical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bifurcation structure and unsteady solutions through a curved square duct with bottom wall heating and cooling from the ceiling</title>
+      <link>https://mohammad-sanjeed-hasan.github.io/publication/hasan-2019-bifurcation/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://mohammad-sanjeed-hasan.github.io/publication/hasan-2019-bifurcation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hydrodynamic instability with convective heat transfer through a curved channel with strong rotational speed</title>
+      <link>https://mohammad-sanjeed-hasan.github.io/publication/hasan-2019-hydrodynamic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://mohammad-sanjeed-hasan.github.io/publication/hasan-2019-hydrodynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pressure-driven flow instability with convective heat transfer through a rotating curved rectangular duct with differentially heated top and bottom walls</title>
+      <link>https://mohammad-sanjeed-hasan.github.io/publication/islam-2019-pressure/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://mohammad-sanjeed-hasan.github.io/publication/islam-2019-pressure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vortex-structure of secondary flows with effects of strong curvature on unsteady solutions through a curved rectangular duct of large aspect ratio</title>
+      <link>https://mohammad-sanjeed-hasan.github.io/publication/dolon-2019-vortex/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://mohammad-sanjeed-hasan.github.io/publication/dolon-2019-vortex/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
